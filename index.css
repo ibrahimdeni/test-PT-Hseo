@@ -1,0 +1,71 @@
+.textNav {
+  font-size: 20px;
+}
+
+.imgNav {
+  width: 180px;
+  margin-left: 80px;
+}
+
+.title {
+  margin-top: 100px;
+}
+
+.img1 {
+  position: absolute;
+  margin-top: -230px;
+  margin-left: 62%;
+}
+
+.content-1 {
+  margin-top: 180px;
+  margin-left: 70px;
+}
+
+.iconSize1 {
+  width: 450px;
+}
+
+.textContent {
+  padding-top: 110px;
+  width: 50%;
+}
+
+.broadCast {
+  color: green;
+  margin-bottom: 20px;
+}
+
+.UL {
+  text-decoration: underline green;
+}
+
+.button1 {
+  margin-top: 350px;
+  margin-left: 1200px;
+  height: 40px;
+  width: 40px;
+}
+
+.button2 {
+  margin-right: 110px;
+  margin-top: 280px;
+  height: 40px;
+  width: 40px;
+}
+
+.page1 {
+  margin-top: 100px;
+}
+
+.foto1 {
+  width: 600px;
+}
+/* .bgMain {
+  background-image: url(./src/bgmain.jpg);
+  width: 1000px;
+} */
+
+/* .img1 crop {
+    width: ;
+} */
